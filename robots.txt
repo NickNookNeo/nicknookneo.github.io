@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nicknookneo.github.io/NickNookNeo/SteamDeck/sitemap.xml
