@@ -10,7 +10,7 @@
 /* Basic styling */
 body {
     font-family: 'Minecraft-Regular'; /* Use a pixelated font if available */
-    url('Minecraft-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+     src: url('Minecraft-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
     background-color: #000;
     color: #fff;
 }
