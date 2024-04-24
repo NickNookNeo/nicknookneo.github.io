@@ -1,4 +1,4 @@
-/* styles.css */
+/* minecraft-style.css */
 
 /* Reset default styles */
 * {
@@ -9,13 +9,13 @@
 
 /* Basic styling */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f9f9f9;
+    font-family: 'Minecraft', sans-serif; /* Use a pixelated font if available */
+    background-color: #000;
+    color: #fff;
 }
 
 header {
     background-color: #333;
-    color: #fff;
     text-align: center;
     padding: 2rem;
 }
@@ -39,6 +39,7 @@ nav a {
 
 section {
     padding: 2rem;
+    background-color: #222; /* Darker background for a cave-like feel */
 }
 
 footer {
