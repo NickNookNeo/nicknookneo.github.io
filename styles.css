@@ -9,7 +9,7 @@
 
 /* Basic styling */
 body {
-    font-family: 'Minecraft', sans-serif; /* Use a pixelated font if available */
+    font-family: 'Minecraft-Regular.ttf'; /* Use a pixelated font if available */
     background-color: #000;
     color: #fff;
 }
